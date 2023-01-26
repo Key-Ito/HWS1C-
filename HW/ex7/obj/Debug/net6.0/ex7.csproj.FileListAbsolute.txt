@@ -1,0 +1,15 @@
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\bin\Debug\net6.0\ex7.exe
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\bin\Debug\net6.0\ex7.deps.json
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\bin\Debug\net6.0\ex7.runtimeconfig.json
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\bin\Debug\net6.0\ex7.dll
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\bin\Debug\net6.0\ex7.pdb
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\ex7.csproj.AssemblyReference.cache
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\ex7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\ex7.AssemblyInfoInputs.cache
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\ex7.AssemblyInfo.cs
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\ex7.csproj.CoreCompileInputs.cache
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\ex7.dll
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\refint\ex7.dll
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\ex7.pdb
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\ex7.genruntimeconfig.cache
+C:\Users\as.baev\Desktop\гит\C#\HWS1C-\HW\ex7\obj\Debug\net6.0\ref\ex7.dll
