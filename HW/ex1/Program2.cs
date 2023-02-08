@@ -12,6 +12,7 @@ Console.Write ("a = " + userNumber1 + ", b = " + userNumber2 + " -> max = ");
 
 if (userNumber1 > userNumber2)
 {
+    
     Console.Write (userNumber1);   
 }
 else
